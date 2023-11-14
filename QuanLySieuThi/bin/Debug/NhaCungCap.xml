@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhaCungCap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhaCungCap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:int" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+                <xs:element name="MoTa" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC01     </MaNCC>
+    <TenNCC>Nhà thuốc Tây Thi</TenNCC>
+    <DiaChi>40 Lê Lợi</DiaChi>
+    <SDT>545125365</SDT>
+    <Email>nhathuoctaythi@gmail.com</Email>
+    <MoTa>2 năm</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC02     </MaNCC>
+    <TenNCC>Nhà thuốc Đông Á</TenNCC>
+    <DiaChi>22 Lê Đại</DiaChi>
+    <SDT>415425636</SDT>
+    <Email>taydai@gmail.com</Email>
+    <MoTa>1 năm</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC03     </MaNCC>
+    <TenNCC>Nhà thuốc Nam Hải</TenNCC>
+    <DiaChi>40 Võ Thị Sáu</DiaChi>
+    <SDT>784525125</SDT>
+    <Email>namhai@gmail.com</Email>
+    <MoTa>3 năm</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+</NewDataSet>

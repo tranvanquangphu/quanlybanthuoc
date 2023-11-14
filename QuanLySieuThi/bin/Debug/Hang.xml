@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_Hang_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_Hang_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="TenHang" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="DonGia" type="xs:int" minOccurs="0" />
+                <xs:element name="SoLuong" type="xs:int" minOccurs="0" />
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_Hang_x0027_>
+    <MaHang>MH01      </MaHang>
+    <TenHang>Paracetamol</TenHang>
+    <DonViTinh>Hộp</DonViTinh>
+    <DonGia>120000</DonGia>
+    <SoLuong>45</SoLuong>
+    <MaNCC>NCC01     </MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>MH02      </MaHang>
+    <TenHang>Oresol</TenHang>
+    <DonViTinh>Lọ</DonViTinh>
+    <DonGia>22000</DonGia>
+    <SoLuong>100</SoLuong>
+    <MaNCC>NCC02     </MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>MH03      </MaHang>
+    <TenHang>Becberin</TenHang>
+    <DonViTinh>Lọ</DonViTinh>
+    <DonGia>12000</DonGia>
+    <SoLuong>30</SoLuong>
+    <MaNCC>NCC02     </MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>MH04      </MaHang>
+    <TenHang>Smecta</TenHang>
+    <DonViTinh>Hộp</DonViTinh>
+    <DonGia>22000</DonGia>
+    <SoLuong>20</SoLuong>
+    <MaNCC>NCC03     </MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>MH05      </MaHang>
+    <TenHang>Betadine</TenHang>
+    <DonViTinh>Lọ</DonViTinh>
+    <DonGia>37000</DonGia>
+    <SoLuong>40</SoLuong>
+    <MaNCC>NCC01     </MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>MH06      </MaHang>
+    <TenHang>Oxy Già</TenHang>
+    <DonViTinh>Lọ</DonViTinh>
+    <DonGia>24000</DonGia>
+    <SoLuong>100</SoLuong>
+    <MaNCC>NCC02     </MaNCC>
+  </_x0027_Hang_x0027_>
+</NewDataSet>

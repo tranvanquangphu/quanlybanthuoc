@@ -1,0 +1,121 @@
+D:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.exe
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.pdb
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+D:\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.exe
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.pdb
+D:\BLT\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\BLT\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\BLT\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.exe
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.pdb
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+C:\Users\Admin\Downloads\Compressed\QuanLySieuThi\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.exe
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.pdb
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+E:\TAI LIEU GIANG DAY\GIAO TRINH VIET HAN_DE CUONG\xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.GenerateResource.cache
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.exe
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.pdb
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\Le Quan\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csprojAssemblyReference.cache
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.GenerateResource.cache
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.exe
+D:\Le Quan\UTE\xml\Huong dan bai tap lon xml\HHuong dan bai tap lon xml\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.pdb
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.AssemblyReference.cache
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDangNhap.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmDoiMatKhau.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHang.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.frmMain.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmHoaDon.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhaCungCap.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmNhanVien.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmPhieuNhapHang.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmTaiKhoanNV.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.GUI.frmXacNhanDiLam.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.Properties.Resources.resources
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.GenerateResource.cache
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.exe
+D:\DaHetHan\Huong dan bai tap lon xml\QuanLybang dia\QuanLySieuThi\QuanLySieuThi\obj\x86\Debug\QuanLySieuThi.pdb
